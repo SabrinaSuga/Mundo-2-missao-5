@@ -17,7 +17,7 @@ Semestre Letivo: 2.
 
 Integrante: Sabrina Larissa Barbosa Torres.
 
-Repositório: https://github.com/SabrinaSuga/Miss-o-Pratica-Nivel-2
+Repositório:https://github.com/SabrinaSuga/Mundo-2-missao-5.git
 
 IDE Utilizada: Visual Studio Code.
 
@@ -31,7 +31,7 @@ utilizar diversas tecnologias para implementar o front-end, tornando-se capacita
 para lidar com plataformas de desenvolvimento variadas, e satisfazendo às
 necessidades de um mercado cada vez mais heterogêneo: 
 
-   Utilizar o banco de dados MongoDB para a criação de repositório NoSQL
-   Implementar servidor baseado em Express e Mongoose
-   Implementar biblioteca cliente de acesso em Java Script
-   Utilizar front-ends baseados em React JS, Next JS e Angular
+  . Utilizar o banco de dados MongoDB para a criação de repositório NoSQL
+  .Implementar servidor baseado em Express e Mongoose
+  . Implementar biblioteca cliente de acesso em Java Script
+  . Utilizar front-ends baseados em React JS, Next JS e Angular
