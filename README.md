@@ -19,8 +19,6 @@ Integrante: Sabrina Larissa Barbosa Torres.
 
 Repositório:https://github.com/SabrinaSuga/Mundo-2-missao-5.git
 
-IDE Utilizada: Visual Studio Code.
-
 Servidor baseado em Express e Mongoose, acessando o banco de dados MongoDB, e
 front-ends baseados em React JS, Next JS e Angular.
 
@@ -31,7 +29,8 @@ utilizar diversas tecnologias para implementar o front-end, tornando-se capacita
 para lidar com plataformas de desenvolvimento variadas, e satisfazendo às
 necessidades de um mercado cada vez mais heterogêneo: 
 
-  . Utilizar o banco de dados MongoDB para a criação de repositório NoSQL
-  .Implementar servidor baseado em Express e Mongoose
-  . Implementar biblioteca cliente de acesso em Java Script
-  . Utilizar front-ends baseados em React JS, Next JS e Angular
+ 
+ Utilizar o banco de dados MongoDB para a criação de repositório NoSQL
+ Implementar servidor baseado em Express e Mongoose
+ Implementar biblioteca cliente de acesso em Java Script
+ Utilizar front-ends baseados em React JS, Next JS e Angular
